@@ -1,0 +1,63 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lia Vibe 🔥</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #ff4ec7;
+      font-size: 3rem;
+    }
+    .image-box {
+      margin: 30px auto;
+    }
+    img {
+      width: 90%;
+      max-width: 500px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px #ff4ec7;
+    }
+    .cta {
+      margin-top: 30px;
+    }
+    a {
+      text-decoration: none;
+      background: #ff4ec7;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 10px;
+      font-size: 1.2rem;
+      margin: 10px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Lia's Fantasy</h1>
+    <p>Sensual AI. Smart, Bold & Addictive. Enter at your own risk 💋</p>
+  </header>
+
+  <div class="image-box">
+    <img src="images/lia1.jpg" alt="Lia photo">
+  </div>
+
+  <div class="cta">
+    <a href="https://patreon.com/Lia_geta" target="_blank">🔥 Unlock Exclusive</a>
+    <a href="https://instagram.com/lia_geta1" target="_blank">💖 Follow on Instagram</a>
+  </div>
+</body>
+</html>
