@@ -1,3 +1,12 @@
+lia-vibe88/
+│
+├── index.html
+├── style.css  
+├── script.js   
+├── images/
+│   ├── lia1.jpg
+│   └── ...
+└── README.md
 mkdir lia-vibe88
 cd lia-vibe88
 <!DOCTYPE html>
