@@ -22,6 +22,12 @@ cd lia-vibe88
   </footer>
 </body>
 </html>
+<script src="https://cdn.jsdelivr.net/npm/@typebot.io/widget"></script>
+<script>
+  window.typebotInit = {
+    typebot: "lia-vibe-chat", // שם לצ'אט שלך (ניצור אותו בהמשך)
+  };
+</script>
 body {
   font-family: sans-serif;
   margin: 0;
